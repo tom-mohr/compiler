@@ -1,0 +1,8 @@
+//main 100=5050
+main(n):
+ let sum
+ sum = 0
+ while >(n, 0)
+   sum = +(sum, n)
+   n = -(n, 1)
+ return = sum

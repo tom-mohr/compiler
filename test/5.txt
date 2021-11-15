@@ -1,0 +1,6 @@
+f(a,b)
+ return = b
+g()
+ return = 17
+main()
+ return = f(1,g())

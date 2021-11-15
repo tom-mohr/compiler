@@ -1,0 +1,4 @@
+main()
+ let x
+ x = 4
+ return = x

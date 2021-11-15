@@ -1,0 +1,6 @@
+f(a,b)
+    return = b
+main()
+    let x
+    x = 17
+    return = f(1,x)
