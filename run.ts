@@ -13,7 +13,7 @@ const runtime = new RuntimeParser();
 compiler.showDebugLog = showDebugLog;
 runtime.showDebugLog = showDebugLog;
 
-main();
+main().then();
 
 async function main() {
     if (args._.length) {

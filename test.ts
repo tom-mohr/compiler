@@ -13,7 +13,7 @@ const runtime = new RuntimeParser();
 compiler.showDebugLog = showDebugLog;
 runtime.showDebugLog = showDebugLog;
 
-runTests();
+runTests().then();
 
 async function runTests() {
 
