@@ -1,4 +1,4 @@
-p(acc, n):
+p(acc, n)
  return = acc
  if >(n, 0)
   return = p(add(acc, n), add(n, -1))

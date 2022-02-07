@@ -1,6 +1,6 @@
 //fib 10=55
 //fib 9=34
-fib(n):
+fib(n)
  return = 1
  if >(n, 2)
   return = add(fib(add(n, -1)), fib(add(n, -2)))
