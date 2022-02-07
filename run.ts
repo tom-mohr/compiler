@@ -45,8 +45,6 @@ async function main() {
         // print help
         console.log(`USAGE:
         deno run --allow-read run.ts <filename> [arguments]
-EXAMPLE:
-        deno run --allow-read run.ts "main" 1 2
         `);
     }
 }
