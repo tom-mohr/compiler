@@ -1,6 +1,6 @@
 import {parse} from "https://deno.land/std/flags/mod.ts";
 import {Binary, Compiler} from "./compiler/Compiler.ts";
-import {RuntimeParser} from "./runtime/Runtime.ts";
+import {RuntimeParser} from "./runtime/RuntimeParser.ts";
 
 const args = parse(Deno.args);
 
